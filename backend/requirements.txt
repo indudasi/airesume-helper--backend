@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-pymupdf
-python-docx
-openai
-sqlalchemy
-fpdf
